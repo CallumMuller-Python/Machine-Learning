@@ -1,0 +1,6 @@
+1 this is a great restaurant
+1 i enjoyed the experience at the restaurant
+-1 the service is terrible
+-1 the food tasted awful
+-1 we had a terrible experience
+-1 the meal was terrible
